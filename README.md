@@ -12,4 +12,7 @@ The repository contains artificats for processing edx telemetry. The program tak
    f) Passoword - SQL User password 
 3) The python code is developed in version 2.7.14
 4) The python code uses standard modules, no custom modules are required to run the code.
+5) Here is the sample command line to call python script -
+
+C:\anaconda2>python.exe "C:\Projects\edx\Json-Processing-Python.py" "C:\Projects\edx\microsoft-edx-events-2015-02-27.json" "TestServer\SQL2016" "1433" "EdxStaging" "TestUser" "TestPassword"
    
