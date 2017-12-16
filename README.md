@@ -9,7 +9,7 @@ The repository contains artificats for processing edx course telemetry. The prog
    c) Port Number - SQL Server Port number 
    d) Database - Database name 
    e) UserName - SQL User name 
-   f) Passoword - SQL User password 
+   f) Password - SQL User password 
 3) The python code is developed in version 2.7.14
 4) The python code uses standard modules, no custom modules are required to run the code.
 5) Here is the sample command line to call python script -
